@@ -5,7 +5,7 @@ http://pickup-game-finder.herokuapp.com/
 
 Project Lead: Ryan James  
 Scrum Master: Aaron Spafford  
-Developers: Kevin Aujla, Renan Deswarte, Alex Kim
+Developers: Kevin Aujla, Renan Deswarte, Alex Kim, Jeremy Smith
 
 
 ## Summary
